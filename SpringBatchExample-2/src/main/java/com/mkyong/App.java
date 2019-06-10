@@ -8,7 +8,7 @@ public class App {
 	public static void main(String[] args) {
 
 		String springConfig = "spring/batch/jobs/job-quartz.xml";
-
+//sere
 		ApplicationContext context = new ClassPathXmlApplicationContext(springConfig);
 
 	}
